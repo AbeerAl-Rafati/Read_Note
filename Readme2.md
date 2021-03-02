@@ -4,6 +4,8 @@
 ## Version Control
 Through version control, one can revert a file or project to a previous version, track modifications and modifying individuals, and compare changes.
 
+
+
 ## Git
 Git is a Distributed Version Control (DVCS) which allows for multiple mirrored repositories, these data backups can be easily be placed on the server to replace any lost information.
 
