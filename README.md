@@ -26,7 +26,7 @@
 
 ____________________________________
 
-#### Hello, I am *Abeer Al Rafati*, a Pharmacist who has an ambition to become a propramming master :sunglasses: .
+#### Hello, I am *Abeer Al Rafati*, a Pharmacist who has an ambition to become a propramming master :bowtie: .
 
 
 #### This my Githup account >> https://github.com/AbeerAl-Rafati
