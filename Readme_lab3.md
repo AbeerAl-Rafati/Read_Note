@@ -37,16 +37,16 @@ Similarity
 
 # HTML5
 
-> DOCTYPEs (<!DOCTYPE html>)
-> Comments in HTML (<!-- -->)
-> ID Attribute (<p id="pullquote">)
-> Class Attribute (<p class="important">)
-> Block Elements  ( <h1></h1> <p></p> <ul></ul> <li></li> )
-> Inline Elements ( <em></em> <b></b> )
-> Grouping Text & Elements In a Block (<div>)
-> Grouping Text & Elements Inline (<span>)
-> IFrames (<iframe>)
-> Information About Your Pages (<meta>)
+* DOCTYPEs (<!DOCTYPE html>)
+* Comments in HTML (<!-- -->)
+* ID Attribute (<p id="pullquote">)
+* Class Attribute (<p class="important">)
+* Block Elements  ( <h1></h1> <p></p> <ul></ul> <li></li> )
+* Inline Elements ( <em></em> <b></b> )
+* Grouping Text & Elements In a Block (<div>)
+* Grouping Text & Elements Inline (<span>)
+* IFrames (<iframe>)
+* Information About Your Pages (<meta>)
 
 
 
