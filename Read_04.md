@@ -1,63 +1,73 @@
-# JavaScript
+# HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER 
 
-Access the content of the page.
-Modify the content of the page.
-Program rules or instructions the browser can follow.
-React to events triggered by the user or browser.
+* This is where the content of
+the page lives. The HTML gives
+the page structure and adds
+semantics. 
+* The CSS enhances the HTML
+page with rules that state how
+the HTML content is presented
+(backgrounds, borders, box
+dimensions, colors, fonts, etc.). 
+* This is where we can change
+how the page behaves, adding
+interactivity. We will aim to keep
+as much of our JavaScript as
+possible in separate files. 
 
-## jQuery
- will help you deal with cross-browser
-inconsistencies.
-
-
-### What is a script and how do I create one?
-A script is a series of instructions that a
-computer can follow to achieve a goal.
-
-### How do computers fit in the world around them? 
-### How do I write a script for a web page?
-* 1: DEFINE THE GOAL 
-* 2: DESIGN THE SCRIPT 
-* 3: CODE EACH STEP 
-
-### ARRAYS
-* You should consider using an
-array whenever you are working
-with a list or a set of values that
-are related to each other. 
-* values in an array are separated
-by commas. 
-* You create an array and give it
-a name just like you would any
-other variable (using the var
-keyword followed by the name of
-the array). 
-`var colors;
-colors ['white', 'black', ' custom'];`
-`var colors
-new Array('white ' ,
-'black',
-'custom'); `
-
-### expression
-* EXPRESSIONS THAT JUST ASSIGN A
-VALUE TO A VARIABLE 
-* EXPRESSIONS THAT USE TWO OR
-MORE VALUES TO RETURN A
-SINGLE VALUE 
-
-### OPERATORS
-they allow programmers to
-create a single value from one or more values.
-1. ARITHMETI C OPERATORS
-2. STRING OPERATOR 
-3. COMPARISON OPERATORS 
-4. LOGICAL OPERATORS 
-5. ASSIGNMENT OPERATORS 
+# Basic JS instructions
 
 
-## WHAT IS A FUNCTION? 
-Functions let you group a series of statements together to perform a
-specific task. 
+### STATEMENTS
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement. 
 
+### COMMENTS 
+You should write comments to explain what your code does.
+They help make your code easier to read and understand.
+This can help you and others who read your code. 
+
+### VARIABLE
+A script will have to temporarily
+store the bits of information it
+needs to do its job. It can store this
+data in variables.
+
+
+# DATA TYPES 
+
+* NUMERIC DATA TYPE 
+> 0.75 
+* STRING DATA TYPE 
+> "H., Ivy!" 
+* BOOLEAN DATA TYPE 
+> true , false
+
+
+# NAMING VARIABLES
+
+* The name must begin with
+a letter, dollar sign ($),or an
+underscore (_). It must not start
+with a number. 
+* The name can contain letters,
+numbers, dollar sign ($), or an
+underscore (_). Note that you
+must not use a dash(-) or a
+period (.) in a variable name.
+* All variables are case sensitive,
+so score and Score would be
+different variable names, but
+it is bad practice to create two
+variables that have the same
+name using different cases.
+* Use a name that describes the
+kind of information that the
+variable stores.
+* If your variable name is made
+up of more than one word, use a
+capital letter for the first letter of
+every word after the first word. 
+* You cannot use keywords or
+reserved words.
 
