@@ -20,33 +20,6 @@ computer can follow to achieve a goal.
 * 2: DESIGN THE SCRIPT 
 * 3: CODE EACH STEP 
 
-
-### NAMING VARIABLES
-* The name must begin with
-a letter, dollar sign ($),or an
-underscore (_). It must not start
-with a number. 
-* The name can contain letters,
-numbers, dollar sign ($), or an
-underscore (_). Note that you
-must not use a dash(-) or a
-period (.) in a variable name.
-* All variables are case sensitive,
-so score and Score would be
-different variable names, but
-it is bad practice to create two
-variables that have the same
-name using different cases.
-* Use a name that describes the
-kind of information that the
-variable stores.
-* If your variable name is made
-up of more than one word, use a
-capital letter for the first letter of
-every word after the first word. 
-* You cannot use keywords or
-reserved words.
-
 ### ARRAYS
 * You should consider using an
 array whenever you are working
