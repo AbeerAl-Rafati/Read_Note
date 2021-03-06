@@ -26,3 +26,7 @@ A thinking machine to manipulate information.
 * Output
 ![Output](https://miro.medium.com/max/640/0*iKDRSU4BJ3ZangGu.jpg)
 
+
+# The Path from Input to Output
+* when  you press key on the keyboard, computer can convert the letter or any input to a number using the binary 1 , 0 , then the CPU calculates how to dislay this numbers, requests step by step instructions from memory which tell how to drow the letter than pressed, then the CPU will run these instruction and stors the results as pixels in memory, finally, these pixels send in bainay to the screen, and the screen will convert bainary signals to tini light and colors whic we can see.
+
