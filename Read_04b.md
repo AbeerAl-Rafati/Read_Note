@@ -32,8 +32,12 @@ A thinking machine to manipulate information.
 
 # Hardware and Software
 
-|           Hardware                                                             |            Software                              |
-|--------------------------------------------------------------------------------|--------------------------------------------------|
-| All cumpter component like circuits, chips, plugs, wires, speakers.            |  All the programmes which tells CPU whats to do. |
- The CPU is the cenral hardware which use circutes to do simple maths and logic.  Bainary the most simple software.                 |
+|           Hardware                                                              |            Software                              |
+|---------------------------------------------------------------------------------|--------------------------------------------------|
+| All cumpter component like circuits, chips, plugs, wires, speakers.             |  All the programmes which tells CPU whats to do. |
+| The CPU is the cenral hardware which use circutes to do simple maths and logic. |   Bainary the most simple software.              |
+
+
+# OS 
+The master program that manages how software uses the hardware of a computer.
                               
