@@ -39,9 +39,9 @@ A thinking machine to manipulate information.
 
 
 * Output 
-* 
-* -----------------
-* ![Output](https://miro.medium.com/max/640/0*iKDRSU4BJ3ZangGu.jpg)
+ 
+-----------------
+ ![Output](https://miro.medium.com/max/640/0*iKDRSU4BJ3ZangGu.jpg)
 
 
 
