@@ -30,3 +30,10 @@ A thinking machine to manipulate information.
 # The Path from Input to Output
 * when  you press key on the keyboard, computer can convert the letter or any input to a number using the binary 1 , 0 , then the CPU calculates how to dislay this numbers, requests step by step instructions from memory which tell how to drow the letter than pressed, then the CPU will run these instruction and stors the results as pixels in memory, finally, these pixels send in bainay to the screen, and the screen will convert bainary signals to tini light and colors whic we can see.
 
+# Hardware and Software
+
+|           Hardware                    |            Software              |
+|---------------------------------------|----------------------------------|
+| All cumpter component like circuits,  |  All the programmes which tells  |        |   chips, plugs, wires, speakers.      |     CPU whats to do.             |
+|  The CPU is the cenral hardware which | Bainary the most simple software.|
+|  use circutes to do simple maths      |                                  |                                  |  and logic.                           |                                  |
