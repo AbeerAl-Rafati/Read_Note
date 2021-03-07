@@ -17,3 +17,4 @@
 | Lab 04       |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_04)     |
 | Lab 04c2     |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_04c2)   |
 | Lab 04b      |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_04b)    |
+| Lab 05       |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_05)     |
