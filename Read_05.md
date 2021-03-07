@@ -1,7 +1,7 @@
 # Comparison perators:
  You can evaluate a situation by coparing one value in the script to what you expect it might be, the result will be a Boolean.
 
- ## Boolean:
+## Boolean
 >  `==`  : compares two values to see if they are the same.  
 
 >  `!=`  : compares two values to see if they are not the same.  
