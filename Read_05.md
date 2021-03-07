@@ -8,7 +8,7 @@
 
 >  `===` : compares two values to check that both the data type and value are the same.  
 
->  `!==` : compares two values to check that both the data and value are not the same.    
+>  `!==` : compares two values to check that both the data and value are not the same.     
 
 >  `>`   : checks if the number on the left is greater than the number on the right.  
 
@@ -26,7 +26,7 @@ Thats allow  you to compare the results of more than one comparison operator.
 
 > `&&`  : if **both** expressions evaluate to **true** then the expression returns **true**, if **just one** of these returns **false** then the expression will return **false**.  
 
-> `||`  : if **either** expressions evaluate to **true** then the expression returns **true**, if **both* return** **false** then the expression will return **false**.  
+> `||`  : if **either** expressions evaluate to **true** then the expression returns **true**, if **both** return **false** then the expression will return **false**.  
 
 > `!`   : if it was **false** it would return **true**.  
 
