@@ -1,7 +1,7 @@
 # Comparison perators:
  You can evaluate a situation by coparing one value in the script to what you expect it might be, the result will be a Boolean.
 
- ## Boolean: `true` or `false`
+ ## Boolean:
 >  `==`  : compares two values to see if they are the same.  
 
 >  `!=`  : compares two values to see if they are not the same.  
@@ -21,12 +21,12 @@
 
 ----------------------------------------
 
-# logical Operators
+# logical Operators 
 Thats allow  you to compare the results of more than one comparison operator.
 
 > `&&`  : if **both** expressions evaluate to **true** then the expression returns **true**, if **just one** of these returns **false** then the expression will return **false**.  
 
-> `||`  : if **either** expressions evaluate to **true** then the expression returns **true**, if **both* return **false** then the expression will return **false**.  
+> `||`  : if **either** expressions evaluate to **true** then the expression returns **true**, if **both* return** **false** then the expression will return **false**.  
 
 > `!`   : if it was **false** it would return **true**.  
 
