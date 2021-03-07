@@ -36,7 +36,7 @@ Thats allow  you to compare the results of more than one comparison operator.
 
 Which checks a condition, if it returns **true** a code block will run, then the codition will be checked again and if it still returns **true** the code block will run again, repeats until the codition returns **false**.
 
-> `for`     : used if you need to run code, **a specific number of times.  
+> `for`     : used if you need to run code, **a specific number of times**.  
 
 > `while`   : used if you do **not know how many times the code should run**.  
 
