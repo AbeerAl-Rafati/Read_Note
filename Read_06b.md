@@ -13,8 +13,10 @@ of that box) is presented.
 
 
 # Using External CSS   
+how to link css page with html:
 
 `<link href="css/styles.css" type="text/css" rel="stylesheet" />`  
+
 
  # CSS Selectors  
 
@@ -39,8 +41,7 @@ example:*
 `p b` is more specific than `p`  
 `p#intro` is more specific than `p`  
 
-# Why use External
-Style Sheets?  
+# Why use External Style Sheets?  
 
 * All of your web pages can share
 the same style sheet. This is
