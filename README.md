@@ -18,3 +18,4 @@
 | Lab 04c2     |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_04c2)   |
 | Lab 04b      |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_04b)    |
 | Lab 05       |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_05)     |
+| Lab 06b      |[Click HERE](https://abeeral-rafati.github.io/Read_Note/Read_06b)    |
