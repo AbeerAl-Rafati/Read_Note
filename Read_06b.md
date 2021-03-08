@@ -15,10 +15,12 @@ of that box) is presented.
 # Using External CSS   
 how to link css page with html:
 
-`<link href="css/styles.css" type="text/css" rel="stylesheet" />`    
+`<link href="css/styles.css" type="text/css" rel="stylesheet" />`  
+
+
 -----------
 
- # CSS Selectors  
+# CSS Selectors
 
  ![image](Capture1.PNG)  
 
