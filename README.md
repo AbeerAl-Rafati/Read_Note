@@ -3,7 +3,7 @@
 
 ## Hello, 
 
-#### I am *Abeer Al Rafati*, a Pharmacist who has an ambition to become a propramming master :bowtie: .
+#### I am *Abeer Al Rafati*, a Pharmacist who has an ambition to become a propramming master =D .
 
 
 #### This website is a repository to save code fellow course reading notes.
@@ -37,4 +37,4 @@
 -------------------------------------------------
 
 
-#### This my Githup account >> https://github.com/AbeerAl-Rafati
+[This my Githup account](https://github.com/AbeerAl-Rafati) 
