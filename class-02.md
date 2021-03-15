@@ -118,7 +118,7 @@
 | greater than or equal to |  `>=`                         | 
 | less than or equal to    |  `<=`                         |  
 | AND                      |  `&&`                         | 
-| OR                       |  `||`                         | 
+| OR                       |  ` || `                       | 
 | ROT                      |  `!`                          | 
 
 
