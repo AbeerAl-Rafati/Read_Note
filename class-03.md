@@ -36,6 +36,20 @@
 
 # SWITCH STATEMENTS
 
+* switch statement used for presenteing a different
+message depending on which
+level the user at, The message is
+stored in a variable called msg. 
+
+
+## formate
+
+[switch](switch.PNG)
+>quoted from Ductte JS book 
+
+
+
+
 
 
 
