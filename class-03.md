@@ -44,7 +44,7 @@ stored in a variable called msg.
 
 ## formate
 
-[switch](switch.PNG)
+![switch](switch.PNG)
 >quoted from Ductte JS book 
 
 
