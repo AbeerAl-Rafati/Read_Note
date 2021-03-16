@@ -48,7 +48,10 @@ stored in a variable called msg.
 >quoted from Ductte JS book 
 
 
+# LOOP
 
+![loop](loop.PNG)
+>quoted from Ductte JS book 
 
 
 
