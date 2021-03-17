@@ -66,14 +66,14 @@ to use color we can indicate it by several ways:
 ### Windows 
 
 
-![text](./img/text.PNG)    
+![text](text.PNG)    
 > quoted from Ductte html book  
 
 
 ### Mac
 
 
-![text](img/text2.PNG)    
+![text](text2.PNG)    
 > quoted from Ductte html book 
 
 
@@ -101,7 +101,7 @@ to use color we can indicate it by several ways:
 ### Attribute Selectors
 
 
-![text](img/se.PNG)    
+![text](se.PNG)    
 > quoted from Ductte html book 
 
 
