@@ -79,7 +79,7 @@ to use color we can indicate it by several ways:
 
 
 | proparity name        | code                                                                       |  
-| --------------------- | -------------------------------------------------------------------------- |
+| --------------------- | :------------------------------------------------------------------------: |
 | Specifying Typefaces  | `font-family`                                                              |  
 | Size of Type          | `font-size`                                                                |  
 | Font Choice           | `@font-face`                                                               |  
