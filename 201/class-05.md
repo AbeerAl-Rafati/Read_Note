@@ -79,23 +79,24 @@ to use color we can indicate it by several ways:
 
 
 | proparity name        | code                                                                       |  
-|-----------------------|----------------------------------------------------------------------------|   
+| --------------------- | -------------------------------------------------------------------------- |
 | Specifying Typefaces  | `font-family`                                                              |  
 | Size of Type          | `font-size`                                                                |  
-| Font Choice           | ` @font-face`                                                              |  
+| Font Choice           | `@font-face`                                                               |  
 | Bold                  | `font-weight  (normal,bold)`                                               |  
 | Italic                | `font-style(normal,italic,oblique)`                                        |  
 | UpperCase & LowerCase | `text-transform(uppercase,lowercase,capitalize)`                           |  
 | Underline & Strike    | `text-decoration(none,underline,overline,line-through,blink)`              |  
-| Leading               | `line-height `                                                             |  
+| Leading               | `line-height`                                                              |  
 | Letter & Word Spacing | `letter-spacing, word-spacing`                                             |  
 | Alignment             | `text-align(left,right,center,justify)`                                    |  
 | Vertical Alignment    | `vertical-align(baseline,sub,super,top,text-top,middle,bottom,text-bottom)`|  
-| Indenting Text        | `text-indent `                                                             |  
+| Indenting Text        | `text-indent`                                                              |  
 | Drop Shadow           | `text-shadow`                                                              |  
 | First Letter or Line  | `:first-letter, :first-line`                                               |  
-| Styling Links         | `:link, :visited  `                                                        |  
-| Responding to Users   | ` :hover, :active, :focus`                                                 |   
+| Styling Links         | `:link, :visited`                                                          |  
+| Responding to Users   | `:hover, :active, :focus`                                                  |
+
 
 
 ### Attribute Selectors
