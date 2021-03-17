@@ -69,7 +69,7 @@ Containing Elements
 
 # FUNCTION
 
-* A BASIC FUNCTION
+* A BASIC FUNCTION   
 ![link](f0.PNG)   
 > quoted from Ductte JS book  
 
@@ -79,7 +79,7 @@ Containing Elements
 > quoted from Ductte JS book   
 
 
-* Calling function
+* Calling function   
 ![link](f2.PNG)   
 > quoted from Ductte JS book   
 
