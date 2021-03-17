@@ -48,7 +48,8 @@ Containing Elements
 
 
 ### Controlling the Position of Elements   
-
+| element name                                | code                       |
+|---------------------------------------------|----------------------------|
 | Normal flow                                 | `position:static`          |
 | Relative Positioning                        | `position:relative`        |
 | Absolute positioning                        | `position:absolute`        |
