@@ -66,7 +66,7 @@ to use color we can indicate it by several ways:
 ### Windows 
 
 
-![text](img/text.PNG)    
+![text](./img/text.PNG)    
 > quoted from Ductte html book  
 
 
