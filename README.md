@@ -19,6 +19,11 @@
 |   class-03                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-03)    |
 |   class-04                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-04)    |
 |   class-05                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-05)    |
+|   class-06                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-06)    |
+
+
+
+
 ---------------------------------------------
 
 
