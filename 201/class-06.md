@@ -20,20 +20,20 @@ Objects is a set of variables and functions togather creating a model of a somet
 
 ### Creating Object   
 
-1. **Leteral notation**   
+* **Leteral notation**   
 
 ![ob](ob.PNG)    
 > quoted from Ductte JS book   
 
 
-2. **Accessing an object and dot notation**       
+* **Accessing an object and dot notation**       
 
 ![ob3](ob3.PNG)    
 > quoted from Ductte JS book   
 
 
 
-3. **Constractor notation**    
+* **Constractor notation**    
 
 
 ![ob2](ob2.PNG)    
