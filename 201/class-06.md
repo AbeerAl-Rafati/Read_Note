@@ -26,9 +26,9 @@ Objects is a set of variables and functions togather creating a model of a somet
 > quoted from Ductte JS book   
 
 
-2. **Accessing an object and dot notation**     
+2. **Accessing an object and dot notation**       
 
-![ob1](ob1.PNG)    
+![ob3](ob3.PNG)    
 > quoted from Ductte JS book   
 
 
