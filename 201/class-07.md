@@ -52,8 +52,66 @@ useing `width attribute` and `cellpadding attribute`
 
 
 
+# Constractor notaion    
+
+
+indevidual constractor notation
+
+
+![ob](ob.PNG)    
+> quoted from Ductte JS book   
 
 
 
+multi constractor notation
+
+![ob](ob1.PNG)    
+> quoted from Ductte JS book   
 
 
+## RECAP:   
+
+CREATE OBJECTS   
+STORING DATA    
+
+
+## WHAT ARE BUILT-IN OBJECTS?  
+
+* THE BROWSER OBJECT MODEL:   
+
+![ob](bu.PNG)    
+> quoted from Ductte JS book   
+
+* THE DOCUMENT OBJECT MODEL:      
+![ob](bu1.PNG)    
+> quoted from Ductte JS book   
+
+* GLOBAL OBJECTS:   
+
+STRINGS: 
+
+
+![ob](bu2.PNG)    
+> quoted from Ductte JS book   
+
+
+NUMBERS:   
+
+
+![ob](bu3.PNG)    
+> quoted from Ductte JS book   
+
+
+
+MATH OBJECT:    
+
+
+![ob](bu4.PNG)    
+> quoted from Ductte JS book   
+
+
+
+DATE OBJECT (AND TIME):     
+
+![ob](bu5.PNG)    
+> quoted from Ductte JS book   
