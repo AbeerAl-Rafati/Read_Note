@@ -95,7 +95,7 @@ STRINGS:
 > quoted from Ductte JS book   
 
 
-NUMBERS:   
+* NUMBERS:   
 
 
 ![ob](bu3.PNG)    
@@ -103,7 +103,7 @@ NUMBERS:
 
 
 
-MATH OBJECT:    
+* MATH OBJECT:    
 
 
 ![ob](bu4.PNG)    
@@ -111,7 +111,7 @@ MATH OBJECT:
 
 
 
-DATE OBJECT (AND TIME):     
+* DATE OBJECT (AND TIME):     
 
 ![ob](bu5.PNG)    
 > quoted from Ductte JS book   

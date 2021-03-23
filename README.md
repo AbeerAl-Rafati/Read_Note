@@ -21,7 +21,7 @@
 |   class-05                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-05)    |
 |   class-06                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-06)    |
 |   class-07                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-07)    |
-
+|   class-08                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-08)    |
 
 
 ---------------------------------------------
