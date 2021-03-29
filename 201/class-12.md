@@ -119,10 +119,10 @@ also we can :
 # Drawing text   
 
 
-    Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.   
+ Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.   
     `fillText(text, x, y [, maxWidth]`   
 
-    Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.   
+ Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.   
     `strokeText(text, x, y [, maxWidth]`   
 
 
