@@ -65,4 +65,11 @@ The handle_storage callback function will be called with a StorageEvent object, 
 > quoted from [HTML5doctor](http://diveinto.html5doctor.com/storage.html)    
 
 
-HTML5 STORAGE IN ACTION
+### KEY-VALUE PAIRS     
+SQL. In 2007, Google launched Gears, an open source cross-browser plugin which included an embedded database based on SQLite.    
+
+
+
+
+
+
