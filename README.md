@@ -27,6 +27,8 @@
 |   class-11                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-11)    |
 |   class-12                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-12)    |
 |   class-13                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-new)   |
+|   class-14a                            |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-14a)   |
+|   class-14b                            |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-14b)   |
 
 ---------------------------------------------
 
