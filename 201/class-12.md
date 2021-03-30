@@ -119,10 +119,17 @@ also we can :
 # Drawing text   
 
 
+<<<<<<< HEAD
     Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.   
     `fillText(text, x, y [, maxWidth]`   
 
     Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.   
+=======
+ Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.   
+    `fillText(text, x, y [, maxWidth]`   
+
+ Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.   
+>>>>>>> fbc584330b925526672600c7a1ba6c4730b6e66e
     `strokeText(text, x, y [, maxWidth]`   
 
 
@@ -135,4 +142,8 @@ also we can :
 
 
 * Advanced text measurements   
+<<<<<<< HEAD
     `measureText()`   
+=======
+    `measureText()`   
+>>>>>>> fbc584330b925526672600c7a1ba6c4730b6e66e
