@@ -26,11 +26,7 @@
 |   class-10                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-10)    |
 |   class-11                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-11)    |
 |   class-12                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-12)    |
-<<<<<<< HEAD
 |   class-13                             |[Click HERE]( https://abeeral-rafati.github.io/Read_Note/201/class-13)    |
-=======
-
->>>>>>> fbc584330b925526672600c7a1ba6c4730b6e66e
 
 ---------------------------------------------
 
