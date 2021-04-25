@@ -31,8 +31,8 @@ are a simpler way to write components that only contain a `render` method and do
 
 ## example:
 
-`ReactDOM.render(`
-  `<h1>Hello, world!</h1>,`
- ` document.getElementById('root')`
-`);`
-> quoted from [NytTimes](https://reactjs.org/docs/hello-world.html)
+> `ReactDOM.render(`
+>  `<h1>Hello, world!</h1>,`
+>  `document.getElementById('root')`
+>  `);`
+ *quoted from [NytTimes](https://reactjs.org/docs/hello-world.html)*
