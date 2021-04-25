@@ -16,7 +16,7 @@
 
 | Code 301 Reading Notes                 |      links                                                               |
 | -------------------------------------  | -------------------------------------------------------------------------|
-|   class-01                             |[Click HERE](https://abeeral-rafati.github.io/301/class-01)               |
+|   class-01                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-01)               |
 |   class-02                             |comming soon =D                                                           |
 |   class-03                             |comming soon =D                                                           |
 |   class-04                             |comming soon =D                                                           |
