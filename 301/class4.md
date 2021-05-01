@@ -37,8 +37,8 @@ Shorten your `if` statements into one line of code with the conditional operator
 ## Nested Ternary  
 
 >
-> `let isStudent = false;`
-> `let isSenior = true;`
-> `let price = isStudent ? 8 : isSenior ? 6 : 10`
-> `console.log(price);` // 6
+> `let isStudent = false;`  
+> `let isSenior = true;`  
+> `let price = isStudent ? 8 : isSenior ? 6 : 10`  
+> `console.log(price);` // 6  
 > 
