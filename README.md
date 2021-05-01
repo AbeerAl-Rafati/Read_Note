@@ -20,7 +20,7 @@
 |   class-02                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-02)     |
 |   class-03                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class3)       |
 |   class-04                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class4)       |
-|   class-05                             |comming soon =D                                                           |
+|   class-05                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-05)     |
 |   class-06                             |comming soon =D                                                           |
 |   class-07                             |comming soon =D                                                           |
 |   class-08                             |comming soon =D                                                           |
