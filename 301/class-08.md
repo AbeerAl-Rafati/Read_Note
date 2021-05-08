@@ -44,11 +44,11 @@ either creates or replaces the resource at the specified URI.
 performs a partial update of a resource.
 
 
-| Error condition	                |HTTP status code                         |
-|---------------------------------|-----------------------------------------|
-|The patch document format isn't<br> supported.	 |  415 (Unsupported Media Type)           |
-|Malformed patch document.	      |  400 (Bad Request)                      |
-|The patch document is valid, but<br>, but the changes can't be applied to<br> the resource in its current state. | 409 (Conflict)                          |
+> | Error condition	                |HTTP status code                         |
+> |---------------------------------|-----------------------------------------|
+> |The patch document format isn't<br> supported.	 |  415 (Unsupported Media Type)           |
+> |Malformed patch document.	      |  400 (Bad Request)                      |
+> |The patch document is valid, but<br>, but the changes can't be applied to<br> the resource in its current state. | 409 (Conflict)                          |
 
 
 
