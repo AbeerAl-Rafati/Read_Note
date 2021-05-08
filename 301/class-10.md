@@ -42,6 +42,6 @@ by right-clicking a previous set breakpoint, which will make your program stop a
 
 
 ### Tools to avoid runtime errors  
-*quokka* to evaluate your code as you type
-*eslint* to make sure your style guide is consistency and it will grab you an error or two along the way and
-*TypeScript* For those of you looking to make JS a more strong typed experience you can check out stuff 
+*quokka* to evaluate your code as you type  
+*eslint* to make sure your style guide is consistency and it will grab you an error or two along the way and  
+*TypeScript* For those of you looking to make JS a more strong typed experience you can check out stuff   
