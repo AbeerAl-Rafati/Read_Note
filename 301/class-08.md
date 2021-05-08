@@ -80,10 +80,10 @@ Quantifiers — * + ? and {}
 > a(bc){2,5}  matches a string that has a followed by 2 up to 5 copies of the sequence bc
 
 
-OR operator — | or []
+OR operator —  or []  
 
-> > a(b|c)     matches a string that has a followed by b or c (and captures b or c) 
-> a[bc]      same as previous, but without capturing b or c
+> > a(b|c)     matches a string that has a followed by b or c (and captures b or c)   
+> a[bc]      same as previous, but without capturing b or c  
 
 Character classes — \d \w \s and .
 
