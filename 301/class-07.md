@@ -1,7 +1,7 @@
 # Perfect Team
 
 
-![ob](1111.jpg)    
+![ob](img/1111.jpg)    
 > quoted from [NytTimes](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)      
 
 
