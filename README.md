@@ -21,11 +21,11 @@
 |   class-03                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class3)       |
 |   class-04                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class4)       |
 |   class-05                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-05)     |
-|   class-06                             |comming soon =D                                                           |
-|   class-07                             |comming soon =D                                                           |
-|   class-08                             |comming soon =D                                                           |
-|   class-09                             |comming soon =D                                                           |
-|   class-10                             |comming soon =D                                                           |
+|   class-06                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-06)     |
+|   class-07                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-07)     |
+|   class-08                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-08)     |
+|   class-09                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-09)     |
+|   class-10                             |[Click HERE](https://abeeral-rafati.github.io/Read_Note/301/class-10)     |
 |   class-11                             |comming soon =D                                                           |
 |   class-12                             |comming soon =D                                                           |
 |   class-13                             |comming soon =D                                                           |
@@ -87,3 +87,6 @@
 
 
 [This my Githup account , don't hesitant to contact me =D](https://github.com/AbeerAl-Rafati) 
+
+
+
