@@ -11,7 +11,7 @@
 [Comming soon](https://abeeral-rafati.github.io/Read_Note) 
 
 
-### Code 301 - Intermediate Software Development - MERM
+### Code 301 - Intermediate Software Development - MERN
 [Code 301](https://abeeral-rafati.github.io/Read_Note/301/301) 
 
 
