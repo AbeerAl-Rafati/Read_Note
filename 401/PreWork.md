@@ -103,7 +103,7 @@ Do not try to solve one big problem, break it into sub-problems, then, solve eac
 4. Stuck?  
 *The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.*
 
-...to overcome that:  
+***...to overcome that:***  
 * Debug  
 Go step by step through your solution trying to find where you went wrong.
 * Reassess  
@@ -120,7 +120,7 @@ Practice. Practice. Practice...
 *and*   
 Practice. Practice. Practice...  
 
- >***solve a lot of problems!  ***  
+ >***solve a lot of problems!***  
  Chess puzzles, math problems, Sudoku, Go, Monopoly, video-games, cryptokitties, bla… bla… bla….
 
 try to use [Coderbyte](https://coderbyte.com/challenges) to solve challeges.  
