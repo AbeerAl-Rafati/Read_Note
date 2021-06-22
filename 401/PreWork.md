@@ -2,15 +2,15 @@
 
 
 Browse the document quick from here:  
-[How to Solve Programming Problems](#How-to-Solve-Programming-Problems)   
-[Act like you make $1000/hr](#Act-like-you-make-$1000/hrfoo)  
-[How to think like a programmer](#How-to-think-like-a-programmer)  
-[5 Whys](#5-Whys)  
+[How to Solve Programming Problems](#1)   
+[Act like you make $1000/hr](#2)  
+[How to think like a programmer](#3)  
+[5 Whys](#4)  
 
 
 -------------------
 
-## How to Solve Programming Problems
+## <a name="1"></a>How to Solve Programming Problems
 
 <p><span style="color:red"><b> "Measure twice and cut once" </b></span></p>
 
@@ -62,7 +62,7 @@ try using [Top Coder](https://www.topcoder.com/) or [Codility](https://www.codil
 
 -------
 
-## Act like you make $1000/hr  
+## <a name="2"></a>Act like you make $1000/hr  
 
 What would your life look like?  
 What people would you stop putting up with?  
@@ -84,7 +84,7 @@ What things would you stop — and start — doing?
 
 --------------
 
-## How to think like a programmer   
+## <a name="3"></a>How to think like a programmer   
 
 **Have a framework**  
 
@@ -128,7 +128,7 @@ try to use [Coderbyte](https://coderbyte.com/challenges) to solve challeges.
 
 -----------------
 
-## 5 Whys  
+## <a name="4"></a>5 Whys  
 
 when a problem occurs, you drill down to its root cause by asking "Why?" five times. Then, when a counter-measure becomes apparent, you follow it through to prevent the issue from recurring.  
 
