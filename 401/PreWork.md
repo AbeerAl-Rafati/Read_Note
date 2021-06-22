@@ -6,8 +6,7 @@ Browse the document quick from here:
 [Act like you make $1000/hr](#Act-like-you-make-$1000/hrfoo)  
 [How to think like a programmer](#How-to-think-like-a-programmer)  
 [5 Whys](#5-Whys)  
-[What the heck is the event loop anyway](#What-the-heck-is-the-event-loop-anyway)  
-[The Super Mario Effect](#The-Super-Mario-Effect) 
+
 
 -------------------
 
