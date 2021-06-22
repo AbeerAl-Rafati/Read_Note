@@ -54,7 +54,7 @@ If you struggle here, there are usually two possible reasons:
 6-  Optimize the real code  
 
 
-`**Competitions are a good way to become a better programmer:**`  
+**Competitions are a good way to become a better programmer:**  
 try using [Top Coder](https://www.topcoder.com/) or [Codility](https://www.codility.com/) to compete others
 
 
