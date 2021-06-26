@@ -11,25 +11,28 @@ The `reduce()` method executes a reducer function (that you provide) on each ele
 &nbsp;
 * With normal Promise `.then()` syntax
 
-> `superagent.get('url')
+```
+superagent.get('url')
  .then(res => {
       alert('yay got ' + JSON.stringify(res.body));
-   });`
->
-> 
+   });
+```
+
 &nbsp;
 &nbsp;
 
 * With `async / await` syntax
-> 
-> `(async () => {
+
+```
+(async () => {
 >  try {
     const res = await superagent.post('/api/pet');
     console.log(res);
   } catch (err) {
     console.error(err);
   }
-})();`
+})();
+```
 
 
 &nbsp;
