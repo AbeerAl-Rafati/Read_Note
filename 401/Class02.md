@@ -32,7 +32,7 @@
 - Closer to other Web technologies in design philosophy
 
 &nbsp;
-<span style="color:lightblue"><b>Which 3 things had you heard about previously and now have better clarity on? </b></span>
+<span style="color:#39A2DB"><b>Which 3 things had you heard about previously and now have better clarity on? </b></span>
 
 
 Express  
@@ -40,14 +40,14 @@ Nodejs
 npm   
 
 &nbsp;
-<span style="color:lightblue"><b>Which 3 things are you hoping to learn more about in the upcoming lecture/demo? </b></span>
+<span style="color:#39A2DB"><b>Which 3 things are you hoping to learn more about in the upcoming lecture/demo? </b></span>
  
 
 TDD  
 supertest   
 
 &nbsp;
-<span style="color:lightblue"><b>What are you most excited about trying to implement or see how it works?</b></span>   
+<span style="color:#39A2DB"><b>What are you most excited about trying to implement or see how it works?</b></span>    
 TDD also   
 http status   
 Swagger and APIDoc.js 
