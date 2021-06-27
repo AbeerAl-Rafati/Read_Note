@@ -37,11 +37,17 @@
 
 Express  
 Nodejs  
-npm  
+npm   
 
+&nbsp;
 <span style="color:lightblue"><b>Which 3 things are you hoping to learn more about in the upcoming lecture/demo? </b></span>
  
 
 TDD  
+supertest   
 
-<span style="color:lightblue"><b>What are you most excited about trying to implement or see how it works?</b></span>
+&nbsp;
+<span style="color:lightblue"><b>What are you most excited about trying to implement or see how it works?</b></span>   
+TDD also   
+http status   
+Swagger and APIDoc.js 
