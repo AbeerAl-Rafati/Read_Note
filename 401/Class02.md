@@ -75,3 +75,52 @@ Routing
 
 WRRC  
 > the request/response cycle is a useful guide to see how all the app’s files and folders fit together and traces how a user’s request flows through the app.
+
+&nbsp;
+
+*Preparation Materials*
+
+> Express/Node introduction
+
+Benefits of using node :  
+- Great performance  
+- Code is written in "plain old JavaScript"  
+- The node package manager (NPM) provides access to hundreds of thousands of reusable packages.   
+- Node.js is portable   
+- It has a very active third party ecosystem and developer community   
+
+
+Express:
+- is the most popular Node web framework   
+
+
+&nbsp;
+
+> What is NPM?
+
+
+npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.   
+
+* npm consists of three distinct components:  
+the website  
+the Command Line Interface (CLI)   
+the registry
+
+&nbsp;
+
+> What is TDD?     
+
+Test-driven development: refers to a style of programming in which three activities are tightly interwoven.
+
+Benefits of TDD:   
+- reductions of team reports   
+- reduction in effort in projects’ final phases   
+- improve design qualities in the code   
+
+&nbsp;
+
+> CI/CD   
+
+Continuous integration is a coding philosophy and set of practices that drive development teams to implement small changes and check in code to version control repositories frequently.   
+
+
