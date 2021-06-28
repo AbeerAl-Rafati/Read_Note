@@ -51,3 +51,27 @@ supertest
 TDD also   
 http status   
 Swagger and APIDoc.js 
+
+
+ &nbsp;
+
+*Terms*  
+  
+
+Web Server  
+> It's a computer program that distributes web pages as they are requisitioned. The basic objective of the web server is to store, process and deliver web pages to the users. This intercommunication is done using Hypertext Transfer Protocol (HTTP)   
+
+&nbsp;
+
+Express  
+> Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.   
+
+&nbsp;
+
+Routing  
+> a process of selecting path along which the data can be transferred from source to the destination. Routing is performed by a special device known as a router.    
+
+&nbsp;
+
+WRRC  
+> the request/response cycle is a useful guide to see how all the app’s files and folders fit together and traces how a user’s request flows through the app.
