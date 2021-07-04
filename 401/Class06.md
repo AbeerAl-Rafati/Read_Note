@@ -82,7 +82,9 @@ install using `npm install bcrypt`
 - Per bcrypt implementation, only the first 72 bytes of a string are used. Any extra bytes are ignored when matching passwords. Note that this is not the first 72 characters. It is possible for a string to contain less than 72 characters, while taking up more than 72 bytes (e.g. a UTF-8 encoded string containing emojis).   
 
 - Usage   
-example:
+example:   
+
+
 ```
 bcrypt.genSalt(saltRounds, function(err, salt) {
     bcrypt.hash(myPlaintextPassword, salt, function(err, hash) {
