@@ -41,7 +41,9 @@ ok i am still learning how i should do that =/
 - patterns
 ## Preparation Materials
 
-> Securing Passwords  
+> Securing Passwords     
+
+
 - Cryptographic hash algorithms MD5, SHA1, SHA256, SHA512, SHA-3 are general purpose hash functions, designed to calculate a digest of huge amounts of data in as short a time as possible. Hashing is the greatest way for protecting passwords and considered to be pretty safe for ensuring the integrity of data or password.   
 
 *PROBLEMS WITH CRYPTOGRAPHIC HASH ALGORITHM*
