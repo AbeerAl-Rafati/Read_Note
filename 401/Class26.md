@@ -7,7 +7,7 @@
 * Backbone    
 * Ember   
 
-**What’s the difference between a framework and a library?**
+**What’s the difference between a framework and a library?**    
 "Inversion of Control". When you call a method from a library, you are in control.    
 But with a framework, the control is inverted: the framework calls you. 
 
@@ -62,7 +62,7 @@ sass
 
 - You may also use curly braces to embed a JavaScript expression in an attribute.
 
-- 
+
 
 &nbsp;
 
@@ -79,6 +79,6 @@ sass
 
 - React elements are immutable. Once you create an element, you can’t change its children or attributes. An element is like a single frame in a movie: it represents the UI at a certain point in time.
 
-- 
+
 
 
