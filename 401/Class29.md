@@ -3,12 +3,12 @@
 
 ## Review
 
-**How can we ensure that an effect hook runs only once?**
-pass [] on it 
-**Can useState() update more than one state variable at the same time?**
-no
-**Is useState() synchronous?**
-no
+**How can we ensure that an effect hook runs only once?**   
+pass [] on it    
+**Can useState() update more than one state variable at the same time?**   
+no   
+**Is useState() synchronous?**   
+no   
 
 
 &nbsp;
