@@ -72,6 +72,7 @@ const MyContext = React.createContext(defaultValue);
 ``` 
 
 - Context.Provider   
+
 ```
 <MyContext.Provider value={/* some value */}> 
 ```
@@ -110,4 +111,4 @@ This function uses the local state mutator useState to properly append a new ale
 
 &nbsp;
 
-> react context links   
+
