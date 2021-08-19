@@ -27,7 +27,7 @@ A Cyclic graph is a graph that has cycles. A cycle is defined as a path of a pos
 - Graph Representation   
 We represent graphs through:   
 1. Adjacency Matrix
-An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix     
+An Adjacency matrix is represented through a two-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix     
 
 2. Adjacency List
 An adjacency list is the most common way to represent graphs.   
