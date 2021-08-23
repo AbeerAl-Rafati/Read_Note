@@ -50,7 +50,8 @@ _What are you most excited about trying to implement or see how it works?_
 
 ## Preparation Materials
 
-> title 1
+> Dan Abramov Redux Tutorials  
+
 
 - Redux provides a solid, stable, and mature solution to managing state in your React application.    
 
